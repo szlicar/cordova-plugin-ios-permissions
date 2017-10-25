@@ -3,7 +3,7 @@
 	<name>Cordova iOS Permissions</name>
 	<description>Cordova / PhoneGap permissions plugin for iOS apps which add entries into plist file.</description>
 	<license>MIT</license>
-	<repo>https://github.com/szlicar/cordova-plugin-ios-permissions</repo
+	<repo>https://github.com/szlicar/cordova-plugin-ios-permissions</repo>
 	<platform name="ios">
 		<config-file target="*-Info.plist" parent="NSCameraUsageDescription" platform="ios">
 			<string>This app needs access to the camera to take photos.</string>
